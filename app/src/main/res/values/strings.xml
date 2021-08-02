@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimalsDetails_Recycler</string>
+    <string name="Name_header">Name:</string>
+    <string name="sound">Sound:</string>
+</resources>
